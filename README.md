@@ -1,5 +1,5 @@
 # Cross-Phase Defense Framework for Adversarial Attacks on LLMs
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleenagibi/cross-phase-defense-framework/blob/main/CrossPhaseDefense.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleenagibi/cross-phase-defense-framework/blob/main/CrossPhaseDefenseFrameworkForAdversarialAttacksOnLLM.ipynb)
 
 This repository contains the prototype implementation for the paper:
 
@@ -67,9 +67,9 @@ Both datasets are loaded automatically from Hugging Face during runtime.
 ```
 cross-phase-defense-framework/
 │
-├── CrossPhaseDefense.ipynb       # Main Colab notebook (recommended entry point)
-├── cross_phase_defense.py        # Standalone Python script version
+├── CrossPhaseDefenseFrameworkForAdversarialAttacksOnLLM.ipynb   # Main Colab notebook
 ├── requirements.txt              # Python dependencies
+├── .gitignore                    # Git ignore rules
 └── README.md                     # This file
 ```
 
