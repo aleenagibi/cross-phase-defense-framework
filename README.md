@@ -80,7 +80,7 @@ cross-phase-defense-framework/
 ### Option A — Google Colab (Recommended)
 
 1. Open [Google Colab](https://colab.research.google.com)
-2. Click **File → Upload notebook** and upload `CrossPhaseDefense.ipynb`
+2. Click **File → Upload notebook** and upload the `.ipynb` file
 3. Set runtime to **GPU**: Runtime → Change runtime type → T4 GPU
 4. Run all cells in order (Runtime → Run all)
 
