@@ -4,7 +4,7 @@ This repository contains the prototype implementation for the paper:
 
 > **Cross-Phase Defense Frameworks for Adversarial Attacks on Large Language Models**  
 > Aleena Gibi, Indu Verma  
-> Department of Science, Christ (Deemed to be University), Delhi NCR Campus
+> Christ University, Bengaluru
 
 ---
 
