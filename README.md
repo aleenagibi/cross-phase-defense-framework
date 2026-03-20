@@ -67,10 +67,11 @@ Both datasets are loaded automatically from Hugging Face during runtime.
 ```
 cross-phase-defense-framework/
 │
-├── CrossPhaseDefenseFrameworkForAdversarialAttacksOnLLM.ipynb   # Main Colab notebook
+├── CrossPhaseDefenseFrameworkForAdversarialAttacksOnLLM.ipynb   # Main Colab notebook (recommended entry point)
+├── cross_phase_defense.py        # Standalone Python script version
 ├── requirements.txt              # Python dependencies
-├── .gitignore                    # Git ignore rules
-└── README.md                     # This file
+├── .gitignore                    
+└── README.md                    
 ```
 
 ---
@@ -127,7 +128,7 @@ All three attacks operate in the **continuous embedding space** of the DistilBER
 
 ## Reproducibility
 
-All results in the paper are fully reproducible by running `CrossPhaseDefense.ipynb` end-to-end on a Colab GPU runtime with the default configuration. The random seed is fixed at `seed=42` throughout.
+All results in the paper are fully reproducible by running `CrossPhaseDefenseFrameworkForAdversarialAttacksOnLLM.ipynb` end-to-end on a Colab GPU runtime with the default configuration. The random seed is fixed at `seed=42` throughout.
 
 ---
 
