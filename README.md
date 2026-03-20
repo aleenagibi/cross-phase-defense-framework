@@ -145,11 +145,11 @@ All results in the paper are fully reproducible by running `CrossPhaseDefense.ip
 If you use this code, please cite:
 
 ```
-@inproceedings{gibi2025crossphase,
+@inproceedings{gibi2026crossphase,
   title={Cross-Phase Defense Frameworks for Adversarial Attacks on Large Language Models},
   author={Gibi, Aleena and Verma, Indu},
-  booktitle={[Conference Name]},
-  year={2025}
+  booktitle={[]},
+  year={2026}
 }
 ```
 
