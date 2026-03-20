@@ -1,4 +1,5 @@
 # Cross-Phase Defense Framework for Adversarial Attacks on LLMs
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aleenagibi/cross-phase-defense-framework/blob/main/CrossPhaseDefense.ipynb)
 
 This repository contains the prototype implementation for the paper:
 
